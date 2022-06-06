@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="test.uss" />
+    <ui:Button text="Play" display-tooltip-when-elided="true" name="Play" style="-unity-text-align: middle-center; position: absolute; left: 30%; top: 40%; right: auto; bottom: auto; width: 40%; height: 10%; display: flex; visibility: visible; flex-basis: auto; font-size: 30%;" />
+    <ui:VisualElement name="Logo" style="left: 10%; top: 5%; width: 80%; height: 25%; background-image: url(&apos;/Assets/Sprites/Placeholder Player.png&apos;);" />
+    <ui:Button text="Quit" display-tooltip-when-elided="true" name="Quit" style="-unity-text-align: middle-center; position: absolute; left: 30%; top: 55%; right: auto; bottom: auto; width: 40%; height: 10%; display: flex; visibility: visible; flex-basis: auto; font-size: 30%;" />
+</ui:UXML>
