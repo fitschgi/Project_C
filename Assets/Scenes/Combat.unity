@@ -461,7 +461,7 @@ RectTransform:
   - {fileID: 1945869577}
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -2615.961}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -628,8 +628,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1cee77ace9239a04cb5448bc1990dc24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: 40
-  enemyHealth: 20
+  playerHealth: 100
+  enemyHealth: 50
   playerTurn: 1
   player: {fileID: 670408419}
   enemy: {fileID: 1505312593}
