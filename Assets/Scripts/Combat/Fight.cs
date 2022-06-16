@@ -14,7 +14,7 @@ public class Fight : MonoBehaviour
     public GameObject canvas;
     public GameObject player;
     public GameObject enemy;
-    public GameObject preTextset;
+    public GameObject presetButton;
 
     public Sprite buttonbg;
     //public Button attackButton;
@@ -43,6 +43,7 @@ public class Fight : MonoBehaviour
         int i = 0;
         foreach (Ability ability in attackList)
         {
+            /*
             Text presetText = (Text) preTextset.GetComponent(typeof(Text));
             GameObject buttonObject = new GameObject(ability.text);
             RectTransform trans = buttonObject.AddComponent<RectTransform>();
@@ -65,9 +66,16 @@ public class Fight : MonoBehaviour
             trans.localScale = new Vector3(1f,2f,1f);
 
             image.sprite = buttonbg;
-
-            button.onClick.AddListener(delegate{playerAttack(ability.damage);});
+            */
+            GameObject buttonObject = GameObject.Instantiate(presetButton);
+            buttonObject.transform.SetParent(canvas.transform);
+            ((Text)buttonObject.GetComponentInChildren(typeof(Text))).text = ability.text;
+            buttonObject.transform.position = presetButton.transform.position + new Vector3(3f * i, 0, 0);
+            buttonObject.transform.localScale = new Vector3(1f,1f,1f);
+            ((Button)buttonObject.GetComponent(typeof(Button))).onClick.AddListener(delegate{playerAttack(ability.damage);});
             i++;
+
+            
         }
         //attackButton.onClick.AddListener(playerAttack);
     }
