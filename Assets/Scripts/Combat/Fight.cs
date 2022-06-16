@@ -9,8 +9,9 @@ public class Fight : MonoBehaviour
     //variables
     public int playerHealth;
     public int enemyHealth;
-    public bool playerTurn;
-
+    
+    bool playerTurn = true;
+    bool enemyHit = false;
     public GameObject canvas;
     public GameObject player;
     public GameObject enemy;
@@ -63,7 +64,7 @@ public class Fight : MonoBehaviour
             buttonObject.transform.SetParent(canvas.transform);
 
             trans.position = new Vector3(3 * i, 0, 0);
-            trans.localScale = new Vector3(1f,2f,1f);
+            trans.localScale = new Vector3(1f,2f,1f); 
 
             image.sprite = buttonbg;
             */
@@ -83,11 +84,12 @@ public class Fight : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!playerTurn)
+        if (!playerTurn && !enemyHit)
         {
+            enemyHit= true;
             //yield return new WaitForSeconds(5);
             playerHealth -= 3;
-            playerTurn = true;
+            StartCoroutine(enemyAttackanim());
             Debug.Log(playerHealth);
             Debug.Log(enemyHealth);
         }
@@ -106,7 +108,38 @@ public class Fight : MonoBehaviour
         if (playerTurn)
         {
             enemyHealth -= damage;
-            playerTurn = false;
+            StartCoroutine(playerAttackanim());
         }
+    }
+    //only testing gonna get removed
+     IEnumerator playerAttackanim()
+    {
+        for(int i = 0; i<12; i++){
+            player.transform.position += new Vector3(1f, 0, 0);
+            yield return new WaitForSeconds(0.05f);
+        } 
+        yield return new WaitForSeconds(0.5f);
+        player.transform.position += new Vector3(-12f, 0, 0);
+        yield return new WaitForSeconds(1f);
+
+        playerTurn = false;
+        enemyHit = false;
+    }
+    
+      IEnumerator enemyAttackanim()
+    {
+         for(int i = 0; i<12; i++){
+            enemy.transform.position += new Vector3(-1f, 0, 0);
+            yield return new WaitForSeconds(0.05f);
+        } 
+        yield return new WaitForSeconds(0.5f);
+        enemy.transform.position += new Vector3(12f, 0, 0);
+        yield return new WaitForSeconds(1f);
+
+
+
+
+
+        playerTurn = true;
     }
 }
