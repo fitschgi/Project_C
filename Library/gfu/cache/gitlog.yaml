@@ -1,0 +1,1826 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-06-16T19:18:15.302+02:00
+  initializedAtString: 2022-06-16T18:47:12.941+02:00
+  log:
+  - commitID: 027ed8fb8793dc01452c1449af10e394f7d38d63
+    mergeA: 
+    mergeB: 
+    authorName: fitschgi
+    authorEmail: jonas.filliger@bluewin.ch
+    commitEmail: jonas.filliger@bluewin.ch
+    commitName: fitschgi
+    summary: totally anatiomsion
+    description: 
+    timeString: 2022-06-16T19:12:36.000+02:00
+    commitTimeString: 2022-06-16T19:12:36.000+02:00
+    changes:
+    - path: Assets\Scenes\Combat.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\Combat.unity
+      projectPath: Assets\Scenes\Combat.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Combat\Fight.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat\Fight.cs
+      projectPath: Assets\Scripts\Combat\Fight.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: b327926889faa7ee556b5613b989562e1a31c6b7
+    mergeA: 
+    mergeB: 
+    authorName: fitschgi
+    authorEmail: jonas.filliger@bluewin.ch
+    commitEmail: jonas.filliger@bluewin.ch
+    commitName: fitschgi
+    summary: good buttons
+    description: 
+    timeString: 2022-06-16T18:58:53.000+02:00
+    commitTimeString: 2022-06-16T18:58:53.000+02:00
+    changes:
+    - path: Assets\Scenes\Combat.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\Combat.unity
+      projectPath: Assets\Scenes\Combat.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Combat\Fight.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat\Fight.cs
+      projectPath: Assets\Scripts\Combat\Fight.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: bedaf94c969619df7cb8865c4929d1b5e44db423
+    mergeA: 
+    mergeB: 
+    authorName: fitschgi
+    authorEmail: jonas.filliger@bluewin.ch
+    commitEmail: jonas.filliger@bluewin.ch
+    commitName: fitschgi
+    summary: enjoy
+    description: '-fucked Buttons (intentionally bad)
+
+      -gonna fix it using:
+      making presetButton instead of presetText and just taking the entire fuckiing
+      thing and just changing the name'
+    timeString: 2022-06-16T02:47:10.000+02:00
+    commitTimeString: 2022-06-16T02:47:10.000+02:00
+    changes:
+    - path: Assets\Scripts\Combat\Fight.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat\Fight.cs
+      projectPath: Assets\Scripts\Combat\Fight.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 8ae55244131dea19a5a3e6d740a2784ec09e18eb
+    mergeA: 20a7abcbcd4d6696628e1fbf98faab7bbc1a0d74
+    mergeB: 1403a28b4c48629edecf9a8cc1156658ae06b5b6
+    authorName: fitschgi
+    authorEmail: jonas.filliger@bluewin.ch
+    commitEmail: jonas.filliger@bluewin.ch
+    commitName: fitschgi
+    summary: Merge branch 'master' of https://github.com/fitschgi/Project_C
+    description: 
+    timeString: 2022-06-16T02:16:09.000+02:00
+    commitTimeString: 2022-06-16T02:16:09.000+02:00
+    changes: []
+  - commitID: 20a7abcbcd4d6696628e1fbf98faab7bbc1a0d74
+    mergeA: 
+    mergeB: 
+    authorName: fitschgi
+    authorEmail: jonas.filliger@bluewin.ch
+    commitEmail: jonas.filliger@bluewin.ch
+    commitName: fitschgi
+    summary: "L\xD6"
+    description: 
+    timeString: 2022-06-16T02:15:45.000+02:00
+    commitTimeString: 2022-06-16T02:15:45.000+02:00
+    changes:
+    - path: .git.zip
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\.git.zip
+      projectPath: .git.zip
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 1403a28b4c48629edecf9a8cc1156658ae06b5b6
+    mergeA: 
+    mergeB: 
+    authorName: Pepponita
+    authorEmail: kevin@tulipdesign.ch
+    commitEmail: kevin@tulipdesign.ch
+    commitName: Pepponita
+    summary: buton
+    description: 
+    timeString: 2022-06-15T00:46:09.000+02:00
+    commitTimeString: 2022-06-15T00:46:09.000+02:00
+    changes:
+    - path: Assets\Scenes\Combat.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\Combat.unity
+      projectPath: Assets\Scenes\Combat.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Combat\Fight.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat\Fight.cs
+      projectPath: Assets\Scripts\Combat\Fight.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\NPCCollision.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\NPCCollision.cs
+      projectPath: Assets\Scripts\NPCCollision.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 3271edf3474cb768600d49372537bc8bc7ad1d62
+    mergeA: 
+    mergeB: 
+    authorName: Pepponita
+    authorEmail: kevin@tulipdesign.ch
+    commitEmail: kevin@tulipdesign.ch
+    commitName: Pepponita
+    summary: cha
+    description: 
+    timeString: 2022-06-08T21:05:38.000+02:00
+    commitTimeString: 2022-06-08T21:05:38.000+02:00
+    changes:
+    - path: Assets\Scenes\Combat.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\Combat.unity
+      projectPath: Assets\Scenes\Combat.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 38eb7b75f1c5cd3fd1657be777ff5b2c631c92e3
+    mergeA: 
+    mergeB: 
+    authorName: Pepponita
+    authorEmail: kevin@tulipdesign.ch
+    commitEmail: kevin@tulipdesign.ch
+    commitName: Pepponita
+    summary: sex
+    description: 
+    timeString: 2022-06-08T20:50:55.000+02:00
+    commitTimeString: 2022-06-08T20:50:55.000+02:00
+    changes:
+    - path: .vscode\settings.json
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\.vscode\settings.json
+      projectPath: .vscode\settings.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Combat.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\Combat.unity
+      projectPath: Assets\Scenes\Combat.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Combat\Fight.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat\Fight.cs
+      projectPath: Assets\Scripts\Combat\Fight.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Project_C
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Project_C
+      projectPath: Project_C
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UIElements.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UIElements.xsd
+      projectPath: UIElementsSchema\UIElements.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+      projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
+      projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
+      projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      projectPath: UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.U2D.Animation.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.U2D.Animation.xsd
+      projectPath: UIElementsSchema\UnityEditor.U2D.Animation.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.U2D.Layout.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.U2D.Layout.xsd
+      projectPath: UIElementsSchema\UnityEditor.U2D.Layout.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
+      projectPath: UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.UIElements.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.UIElements.xsd
+      projectPath: UIElementsSchema\UnityEditor.UIElements.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEngine.UIElements.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEngine.UIElements.xsd
+      projectPath: UIElementsSchema\UnityEngine.UIElements.xsd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 25e42e6d5326f7bb820167b7b2917cda5c96df88
+    mergeA: 
+    mergeB: 
+    authorName: Jonas Filliger
+    authorEmail: jonas.filliger@bluewin.ch
+    commitEmail: jonas.filliger@bluewin.ch
+    commitName: Jonas Filliger
+    summary: y
+    description: 
+    timeString: 2022-06-06T18:45:14.000+02:00
+    commitTimeString: 2022-06-06T18:45:14.000+02:00
+    changes:
+    - path: .collabignore
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vscode\settings.json
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\.vscode\settings.json
+      projectPath: .vscode\settings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Fonts.meta
+      projectPath: Assets\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PixeloidSans-Bold.ttf
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Fonts\PixeloidSans-Bold.ttf
+      projectPath: Assets\Fonts\PixeloidSans-Bold.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PixeloidSans-Bold.ttf.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Fonts\PixeloidSans-Bold.ttf.meta
+      projectPath: Assets\Fonts\PixeloidSans-Bold.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PixeloidSans.ttf
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Fonts\PixeloidSans.ttf
+      projectPath: Assets\Fonts\PixeloidSans.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PixeloidSans.ttf.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Fonts\PixeloidSans.ttf.meta
+      projectPath: Assets\Fonts\PixeloidSans.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Combat.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\Combat.unity
+      projectPath: Assets\Scenes\Combat.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Combat.unity.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\Combat.unity.meta
+      projectPath: Assets\Scenes\Combat.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Menu.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Menu.unity.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\Menu.unity.meta
+      projectPath: Assets\Scenes\Menu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Combat.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat.meta
+      projectPath: Assets\Scripts\Combat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Combat\Abilities.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat\Abilities.cs
+      projectPath: Assets\Scripts\Combat\Abilities.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Combat\Abilities.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat\Abilities.cs.meta
+      projectPath: Assets\Scripts\Combat\Abilities.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Combat\Fight.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat\Fight.cs
+      projectPath: Assets\Scripts\Combat\Fight.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Combat\Fight.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Combat\Fight.cs.meta
+      projectPath: Assets\Scripts\Combat\Fight.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cutscene.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Cutscene.cs
+      projectPath: Assets\Scripts\Cutscene.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Cutscene.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Cutscene.cs.meta
+      projectPath: Assets\Scripts\Cutscene.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\EnemyFollowOnSee.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\EnemyFollowOnSee.cs
+      projectPath: Assets\Scripts\EnemyFollowOnSee.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\EnemyFollowOnSee.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\EnemyFollowOnSee.cs.meta
+      projectPath: Assets\Scripts\EnemyFollowOnSee.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Menu.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Menu.meta
+      projectPath: Assets\Scripts\Menu.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Menu\MainMenu.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Menu\MainMenu.cs
+      projectPath: Assets\Scripts\Menu\MainMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Menu\MainMenu.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\Menu\MainMenu.cs.meta
+      projectPath: Assets\Scripts\Menu\MainMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\NPCCollision.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\NPCCollision.cs
+      projectPath: Assets\Scripts\NPCCollision.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\NPCCollision.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\NPCCollision.cs.meta
+      projectPath: Assets\Scripts\NPCCollision.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TextBox.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\TextBox.cs
+      projectPath: Assets\Scripts\TextBox.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TextBox.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\TextBox.cs.meta
+      projectPath: Assets\Scripts\TextBox.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TextScript.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\TextScript.cs
+      projectPath: Assets\Scripts\TextScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TextScript.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\TextScript.cs.meta
+      projectPath: Assets\Scripts\TextScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\playerHealth.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\playerHealth.cs
+      projectPath: Assets\Scripts\playerHealth.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\playerHealth.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\playerHealth.cs.meta
+      projectPath: Assets\Scripts\playerHealth.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\playerMovement.cs
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\playerMovement.cs
+      projectPath: Assets\Scripts\playerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\playerMovement.cs.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Scripts\playerMovement.cs.meta
+      projectPath: Assets\Scripts\playerMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Character Sprites.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Character
+        Sprites.meta
+      projectPath: Assets\Sprites\Character Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Character Sprites\Ninja 1.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Character
+        Sprites\Ninja 1.png
+      projectPath: Assets\Sprites\Character Sprites\Ninja 1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Character Sprites\Ninja 1.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Character
+        Sprites\Ninja 1.png.meta
+      projectPath: Assets\Sprites\Character Sprites\Ninja 1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites.meta
+      projectPath: Assets\Sprites\Floorsprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\cursed block.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\cursed
+        block.asset
+      projectPath: Assets\Sprites\Floorsprites\cursed block.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\cursed block.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\cursed
+        block.asset.meta
+      projectPath: Assets\Sprites\Floorsprites\cursed block.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\cursed block.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\cursed
+        block.png
+      projectPath: Assets\Sprites\Floorsprites\cursed block.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\cursed block.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\cursed
+        block.png.meta
+      projectPath: Assets\Sprites\Floorsprites\cursed block.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\dirt.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\dirt.png
+      projectPath: Assets\Sprites\Floorsprites\dirt.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\dirt.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\dirt.png.meta
+      projectPath: Assets\Sprites\Floorsprites\dirt.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\grass.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\grass.png
+      projectPath: Assets\Sprites\Floorsprites\grass.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\grass.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\grass.png.meta
+      projectPath: Assets\Sprites\Floorsprites\grass.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\sand.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\sand.png
+      projectPath: Assets\Sprites\Floorsprites\sand.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\sand.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\sand.png.meta
+      projectPath: Assets\Sprites\Floorsprites\sand.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\water.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\water.png
+      projectPath: Assets\Sprites\Floorsprites\water.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Floorsprites\water.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Floorsprites\water.png.meta
+      projectPath: Assets\Sprites\Floorsprites\water.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Placeholder Player.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Placeholder
+        Player.png
+      projectPath: Assets\Sprites\Placeholder Player.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Placeholder Player.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Placeholder
+        Player.png.meta
+      projectPath: Assets\Sprites\Placeholder Player.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Props.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Props.meta
+      projectPath: Assets\Sprites\Props.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Props\questionmark.jpg
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Props\questionmark.jpg
+      projectPath: Assets\Sprites\Props\questionmark.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Props\questionmark.jpg.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Props\questionmark.jpg.meta
+      projectPath: Assets\Sprites\Props\questionmark.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Props\tree1.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Props\tree1.png
+      projectPath: Assets\Sprites\Props\tree1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Props\tree1.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Props\tree1.png.meta
+      projectPath: Assets\Sprites\Props\tree1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Textbox.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Textbox.png
+      projectPath: Assets\Sprites\Textbox.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Textbox.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\Textbox.png.meta
+      projectPath: Assets\Sprites\Textbox.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\ui assets.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\ui
+        assets.meta
+      projectPath: Assets\Sprites\ui assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\ui assets\full_heart.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\ui
+        assets\full_heart.png
+      projectPath: Assets\Sprites\ui assets\full_heart.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\ui assets\full_heart.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Sprites\ui
+        assets\full_heart.png.meta
+      projectPath: Assets\Sprites\ui assets\full_heart.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps.meta
+      projectPath: Assets\Tilemaps.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Floor.prefab
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Floor.prefab
+      projectPath: Assets\Tilemaps\Floor.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Floor.prefab.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Floor.prefab.meta
+      projectPath: Assets\Tilemaps\Floor.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Props.prefab
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Props.prefab
+      projectPath: Assets\Tilemaps\Props.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Props.prefab.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Props.prefab.meta
+      projectPath: Assets\Tilemaps\Props.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites.meta
+      projectPath: Assets\Tilemaps\Tile Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\Placeholder Player.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\Placeholder Player.asset
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\Placeholder Player.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\Placeholder Player.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\Placeholder Player.asset.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\Placeholder Player.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\Placeholder Player2.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\Placeholder Player2.asset
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\Placeholder Player2.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\Placeholder Player2.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\Placeholder Player2.asset.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\Placeholder Player2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\dirt.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\dirt.asset
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\dirt.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\dirt.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\dirt.asset.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\dirt.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\grass.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\grass.asset
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\grass.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\grass.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\grass.asset.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\grass.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\sand.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\sand.asset
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\sand.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\sand.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Placeholder Sprites\sand.asset.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\Placeholder Sprites\sand.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Prop Sprites.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Prop Sprites.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\Prop Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Prop Sprites\tree1.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Prop Sprites\tree1.asset
+      projectPath: Assets\Tilemaps\Tile Sprites\Prop Sprites\tree1.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\Prop Sprites\tree1.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\Prop Sprites\tree1.asset.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\Prop Sprites\tree1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\wall Sprites.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\wall Sprites.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\wall Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\wall Sprites\water.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\wall Sprites\water.asset
+      projectPath: Assets\Tilemaps\Tile Sprites\wall Sprites\water.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Tile Sprites\wall Sprites\water.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Tile
+        Sprites\wall Sprites\water.asset.meta
+      projectPath: Assets\Tilemaps\Tile Sprites\wall Sprites\water.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Wall.prefab
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Wall.prefab
+      projectPath: Assets\Tilemaps\Wall.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tilemaps\Wall.prefab.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Tilemaps\Wall.prefab.meta
+      projectPath: Assets\Tilemaps\Wall.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit.meta
+      projectPath: Assets\UI Toolkit.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Default UITK Text Settings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Default
+        UITK Text Settings.asset
+      projectPath: Assets\UI Toolkit\Default UITK Text Settings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Default UITK Text Settings.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Default
+        UITK Text Settings.asset.meta
+      projectPath: Assets\UI Toolkit\Default UITK Text Settings.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources.meta
+      projectPath: Assets\UI Toolkit\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Fonts & Materials.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Fonts
+        & Materials.meta
+      projectPath: Assets\UI Toolkit\Resources\Fonts & Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Fonts & Materials\LiberationSans SDF.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Fonts
+        & Materials\LiberationSans SDF.asset
+      projectPath: Assets\UI Toolkit\Resources\Fonts & Materials\LiberationSans SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Fonts
+        & Materials\LiberationSans SDF.asset.meta
+      projectPath: Assets\UI Toolkit\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Fonts & Materials\LiberationSans.ttf
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Fonts
+        & Materials\LiberationSans.ttf
+      projectPath: Assets\UI Toolkit\Resources\Fonts & Materials\LiberationSans.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Fonts & Materials\LiberationSans.ttf.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Fonts
+        & Materials\LiberationSans.ttf.meta
+      projectPath: Assets\UI Toolkit\Resources\Fonts & Materials\LiberationSans.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Sprite Assets.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Sprite
+        Assets.meta
+      projectPath: Assets\UI Toolkit\Resources\Sprite Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Sprite Assets\EmojiOne.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Sprite
+        Assets\EmojiOne.asset
+      projectPath: Assets\UI Toolkit\Resources\Sprite Assets\EmojiOne.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Sprite Assets\EmojiOne.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Sprite
+        Assets\EmojiOne.asset.meta
+      projectPath: Assets\UI Toolkit\Resources\Sprite Assets\EmojiOne.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Text Color Gradients.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Text
+        Color Gradients.meta
+      projectPath: Assets\UI Toolkit\Resources\Text Color Gradients.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Text Color Gradients\Yellow to Orange - Vertical.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Text
+        Color Gradients\Yellow to Orange - Vertical.asset
+      projectPath: Assets\UI Toolkit\Resources\Text Color Gradients\Yellow to Orange
+        - Vertical.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Text Color Gradients\Yellow to Orange - Vertical.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Text
+        Color Gradients\Yellow to Orange - Vertical.asset.meta
+      projectPath: Assets\UI Toolkit\Resources\Text Color Gradients\Yellow to Orange
+        - Vertical.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Text StyleSheets.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Text
+        StyleSheets.meta
+      projectPath: Assets\UI Toolkit\Resources\Text StyleSheets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Text StyleSheets\Text StyleSheet.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Text
+        StyleSheets\Text StyleSheet.asset
+      projectPath: Assets\UI Toolkit\Resources\Text StyleSheets\Text StyleSheet.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Resources\Text StyleSheets\Text StyleSheet.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Resources\Text
+        StyleSheets\Text StyleSheet.asset.meta
+      projectPath: Assets\UI Toolkit\Resources\Text StyleSheets\Text StyleSheet.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Sprites.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Sprites.meta
+      projectPath: Assets\UI Toolkit\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Sprites\EmojiOne Attribution.txt
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Sprites\EmojiOne
+        Attribution.txt
+      projectPath: Assets\UI Toolkit\Sprites\EmojiOne Attribution.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Sprites\EmojiOne Attribution.txt.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Sprites\EmojiOne
+        Attribution.txt.meta
+      projectPath: Assets\UI Toolkit\Sprites\EmojiOne Attribution.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Sprites\EmojiOne.json
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Sprites\EmojiOne.json
+      projectPath: Assets\UI Toolkit\Sprites\EmojiOne.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Sprites\EmojiOne.json.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Sprites\EmojiOne.json.meta
+      projectPath: Assets\UI Toolkit\Sprites\EmojiOne.json.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Sprites\EmojiOne.png
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Sprites\EmojiOne.png
+      projectPath: Assets\UI Toolkit\Sprites\EmojiOne.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI Toolkit\Sprites\EmojiOne.png.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\UI Toolkit\Sprites\EmojiOne.png.meta
+      projectPath: Assets\UI Toolkit\Sprites\EmojiOne.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Ui.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Ui.meta
+      projectPath: Assets\Ui.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Ui\Dark Souls death screen - HD.mp4
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Ui\Dark Souls
+        death screen - HD.mp4
+      projectPath: Assets\Ui\Dark Souls death screen - HD.mp4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Ui\Dark Souls death screen - HD.mp4.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Ui\Dark Souls
+        death screen - HD.mp4.meta
+      projectPath: Assets\Ui\Dark Souls death screen - HD.mp4.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Ui\PanelSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Ui\PanelSettings.asset
+      projectPath: Assets\Ui\PanelSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Ui\PanelSettings.asset.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Ui\PanelSettings.asset.meta
+      projectPath: Assets\Ui\PanelSettings.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Ui\test.uss
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Ui\test.uss
+      projectPath: Assets\Ui\test.uss
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Ui\test.uss.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Ui\test.uss.meta
+      projectPath: Assets\Ui\test.uss.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Ui\test.uxml
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Ui\test.uxml
+      projectPath: Assets\Ui\test.uxml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Ui\test.uxml.meta
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\Ui\test.uxml.meta
+      projectPath: Assets\Ui\test.uxml.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UIElements.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UIElements.xsd
+      projectPath: UIElementsSchema\UIElements.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+      projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
+      projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
+      projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      projectPath: UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.U2D.Animation.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.U2D.Animation.xsd
+      projectPath: UIElementsSchema\UnityEditor.U2D.Animation.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.U2D.Layout.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.U2D.Layout.xsd
+      projectPath: UIElementsSchema\UnityEditor.U2D.Layout.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
+      projectPath: UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.UIElements.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEditor.UIElements.xsd
+      projectPath: UIElementsSchema\UnityEditor.UIElements.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEngine.UIElements.xsd
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UIElementsSchema\UnityEngine.UIElements.xsd
+      projectPath: UIElementsSchema\UnityEngine.UIElements.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 2279533773e2fb050dab7b8a88411cff6ac6caa2
+    mergeA: 
+    mergeB: 
+    authorName: Jonas Filliger
+    authorEmail: jonas.filliger@bluewin.ch
+    commitEmail: jonas.filliger@bluewin.ch
+    commitName: Jonas Filliger
+    summary: Initial commit
+    description: 
+    timeString: 2022-06-06T18:44:38.000+02:00
+    commitTimeString: 2022-06-06T18:44:38.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\41765\Documents\Project Kum\Project_ C\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
